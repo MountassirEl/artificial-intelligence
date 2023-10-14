@@ -2,7 +2,7 @@
 
 AlexNet is a groundbreaking deep convolutional neural network architecture that revolutionized image classification tasks. Developed by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton, this architecture achieved remarkable results in the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012, significantly outperforming traditional computer vision approaches.
 
-In this article, I will implement the AlexNet architecture from scratch and train it on a subset of the cifar-10 dataset.
+In this project, I will implement the AlexNet architecture from scratch and train it on a subset of the cifar-10 dataset.
 The achieved accuracy on the test set stands at an impressive is 76% on the test set.
 Here are some results of the AlexNet architecture on the test set:
 <div align="center">
